@@ -41,7 +41,7 @@ s_final,g_final=learn(concepts,target)
 print("\n Final S:",s_final)
 print("\n Final G:",g_final)
 
-#sunny  warm  normal  strong  warm    same  YES
-#sunny  warm    high  strong  warm    same  YES
-#rainy  cold    high  strong  warm  change   NO
-#sunny  warm    high  strong  cool  change  YES
+#sunny,warm,normal,strong,warm,same,YES
+#sunny,warm,high,strong,warm,same,YES
+#rainy,cold,high,strong,warm,change,NO
+#sunny,warm,high,strong,cool,change,YES
